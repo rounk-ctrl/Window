@@ -1,8 +1,0 @@
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.GenerateResource.cache
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
-C:\Users\Rounak\source\repos\TestApp\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.csproj.AssemblyReference.cache
